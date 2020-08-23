@@ -1,6 +1,6 @@
 Este es un ejemplo
 
-de como manejar Git
+de como manejar Git en línea de comandos
 
 Este archivo es de prueba.
 
